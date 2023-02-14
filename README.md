@@ -4,7 +4,7 @@ An inquisitive, agile and hardworking person. Passionate in data analytics and m
 
 Interested in: 
 <ul>
-    <li>Machine Learning</li>
+    <li>Data science</li>
     <li>Front end Web Developer</li>
 </ul>
 
