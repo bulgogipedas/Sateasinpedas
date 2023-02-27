@@ -5,7 +5,7 @@ An inquisitive, agile and hardworking person. Passionate in data analytics and m
 Interested in: 
 <ul>
     <li>Data science</li>
-    <li>Front end Web Developer</li>
+    <li>Product Management</li>
 </ul>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sateasinpedas&theme=tokyonight&layout=compact)
