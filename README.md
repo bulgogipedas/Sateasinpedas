@@ -1,4 +1,4 @@
-# Rafli Ardiansyah
+# Rapli
 
 An inquisitive, agile and hardworking person. Passionate in data analytics and machine learning. Keep learning and looking for opportunities to grow.
 
