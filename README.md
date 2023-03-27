@@ -8,5 +8,5 @@ Interested in:
     <li>Product Management</li>
 </ul>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sateasinpedas&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulgogipedas&theme=tokyonight&layout=compact)
 
