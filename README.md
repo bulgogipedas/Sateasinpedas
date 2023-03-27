@@ -11,7 +11,7 @@ Interested in:
 
 <h2>📈 Here's my stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulgogipedas&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulgogipedas&theme=tokyonight&layout=compact) <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulgogipedas&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
